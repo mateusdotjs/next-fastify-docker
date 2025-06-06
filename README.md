@@ -1,9 +1,9 @@
-# Aplicação Docker com MySQL, Backend e Frontend
+# Aplicação Docker com MySQL, Fastify e Next.js
 
 Este projeto utiliza Docker Compose para criar um ambiente completo com:
 - Banco de dados MySQL
-- Serviço backend
-- Aplicação frontend
+- Serviço com Fastify
+- Aplicação frontend com Next.js
 
 ## Pré-requisitos
 
